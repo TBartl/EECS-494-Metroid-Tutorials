@@ -1,10 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome to the EECS 494 Metroid Template Tutorial Series
 
-You can use the [editor on GitHub](https://github.com/TBartl/eecs-494-metroid-tutorials/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In these tutorials, we will walk you through some initial steps to get your classic game remake started.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As you go through these tutorials, make sure you're following along in your own project so that by the end you'll be  setup and ready to tackle the project on your own.
 
-### Markdown
+We expect these tutorials to take approximately 1 hour to complete, but they are sectioned so that you can stop and review at any time.
+
+When you're ready to get started, go to the first tutorial: [1: Project and Scene.](./01-Project-and-Scene)
+
+### Tutorials
+
+[1: Project and Scene](./01-Project-and-Scene)
+
+[2: Tiles](./02-Tiles)
+
+[3: Player Prefab](./03-Player-Prefab)
+
+[4: Player Movement](./04-Player-Movement)
+
+[5: Player Movement Fixes](./05-Player-Movement-Fixes)
+
+[6: Player Direction and Animation](./06-Player-Direction-and-Animation)
+
+[7: Bullets and Firing](./07-Bullets-and-Firing)
+
+[8: Audio](./08-Audio)
+
+[9: Collectables](./09-Collectables)
+
+[10: Morph Ball](./10-Morph-Ball)
+
+[11: Next Steps](./11-Next-Steps)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
