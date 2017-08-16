@@ -25,8 +25,8 @@ After Unity finishes setting up your project, you will be greeted with the Unity
 
 Unity packages contain a number of assets that you can use in your game. Unity provides a number of standard asset packages that you can use for free, and you can also find many on the Unity store. You may want to experiment with some of these in your own games.
 
-For this project, we wil be using a Unity Package the instructors have created that contains everything you'll need to get your project going. This is not a complete set of assets you'll need for your project, you'll be responsible for finding any other assets you need.
+For this project, we wil be using a Unity Package the instructors have created that contains everything you'll need to get your project going. However, this is not a complete set of assets you'll need for your project; you'll be responsible for finding any other assets you need.
 
-First download the Unity Package from the canvas website. You can find it in the "Files" tab inside the "p1" folder with the name "494-p1-templatePackage.unitypackage".
+First download the Unity Package from the [canvas website](https://umich.instructure.com/courses/164929/files/folder/p1). You can find it in the "Files" tab inside the "p1" folder with the name "494-p1-templatePackage.unitypackage".
 
 ![alt text](./01/CanvasSite.PNG "Canvas Site")

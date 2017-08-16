@@ -2,13 +2,63 @@
 
 In these tutorials, we will walk you through some initial steps to get your classic game remake started.
 
-As you go through these tutorials, make sure you're following along in your own project so that by the end you'll be  setup and ready to tackle the project on your own.
+As you go through these tutorials, make sure you're following along in your own project so that by the end you'll be setup and ready to tackle the project on your own.
 
 We expect these tutorials to take approximately 1 hour to complete, but they are sectioned so that you can stop and review at any time.
 
+As you go through these tutorials you'll come across a number of expandable sections. Click these to get more optional information about what's going on.
+
+<div class="expandable">
+  <input id="check0" class="checkbox" type="checkbox">
+  <label for="check0">
+    <p class="expand-title">What do these expandable sections look like? How do you use them? (Click to Expand)</p>
+    <div class="check-content">
+
+    Exactly like this, and exactly like that.
+
+    </div>
+  </label>
+</div>
+
+<div class="expandable">
+  <input id="check1" class="checkbox" type="checkbox">
+  <label for="check1">
+    <p class="expand-title">If these are optional, why should I read them?</p>
+    <div class="check-content">
+    If we thought these didn't add value we wouldn't have added them in the first place. That being said, these tutorials, and this project, are already long enough that we don't want to burden everyone with potentially superfluous information.
+
+    If you see a question you are interested in and have the time, you should definitely check out our insight though.
+    </div>
+  </label>
+</div>
+
+<div class="expandable">
+  <input id="check2" class="checkbox" type="checkbox">
+  <label for="check2">
+    <p class="expand-title">What differences can I expect between the Metroid and Zelda project?</p>
+    <div class="check-content">
+
+    Both projects are fairly equal in the challenges you'll face. The biggest difference between the two is Metroid's focus on tight platforming (and the challenges that presents to implementing physics) and Zelda's focus on inventory (and the challenges that presents to implementing UI).
+
+    The other major difference is how the tutorials are presented. Traditionally both tutorials were presented as hour long videos, but this year we're trying something a bit different with having the Metroid tutorial be mostly text.
+    
+    </div>
+  </label>
+</div>
+
+<div class="expandable">
+  <input id="check3" class="checkbox" type="checkbox">
+  <label for="check3">
+    <p class="expand-title">Why can't I copy the code snippets?</p>
+    <div class="check-content">
+    We've intentionally made all included code in image only form. This is partially because we want to keep the amount of work consistent with the Zelda tutorials, but mostly because there's value in being forced to type all the code.
+    </div>
+  </label>
+</div>
+
 When you're ready to get started, go to the first tutorial: [1: Project and Scene.](./01-Project-and-Scene)
 
-### Tutorials
+### Tutorial List
 
 [1: Project and Scene](./01-Project-and-Scene)
 
@@ -31,33 +81,3 @@ When you're ready to get started, go to the first tutorial: [1: Project and Scen
 [10: Morph Ball](./10-Morph-Ball)
 
 [11: Next Steps](./11-Next-Steps)
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TBartl/eecs-494-metroid-tutorials/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
