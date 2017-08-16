@@ -13,9 +13,7 @@ As you go through these tutorials you'll come across a number of expandable sect
   <label for="check0">
     <p class="expand-title">What do these expandable sections look like? How do you use them? (Click to Expand)</p>
     <div class="check-content">
-
-    Exactly like this, and exactly like that.
-
+    <p>Exactly like this, and exactly like that.</p>
     </div>
   </label>
 </div>
@@ -25,9 +23,8 @@ As you go through these tutorials you'll come across a number of expandable sect
   <label for="check1">
     <p class="expand-title">If these are optional, why should I read them?</p>
     <div class="check-content">
-    If we thought these didn't add value we wouldn't have added them in the first place. That being said, these tutorials, and this project, are already long enough that we don't want to burden everyone with potentially superfluous information.
-
-    If you see a question you are interested in and have the time, you should definitely check out our insight though.
+    <p>If we thought these didn't add value we wouldn't have added them in the first place. That being said, these tutorials, and this project, are already long enough that we don't want to burden everyone with potentially superfluous information.</p>
+    <p>If you see a question you are interested in and have the time, you should definitely check out our insight though.</p>
     </div>
   </label>
 </div>
@@ -37,11 +34,8 @@ As you go through these tutorials you'll come across a number of expandable sect
   <label for="check2">
     <p class="expand-title">What differences can I expect between the Metroid and Zelda project?</p>
     <div class="check-content">
-
-    Both projects are fairly equal in the challenges you'll face. The biggest difference between the two is Metroid's focus on tight platforming (and the challenges that presents to implementing physics) and Zelda's focus on inventory (and the challenges that presents to implementing UI).
-
-    The other major difference is how the tutorials are presented. Traditionally both tutorials were presented as hour long videos, but this year we're trying something a bit different with having the Metroid tutorial be mostly text.
-    
+    <p>Both projects are fairly equal in the challenges you'll face. The biggest difference between the two is Metroid's focus on tight platforming (and the challenges that presents to implementing physics) and Zelda's focus on inventory (and the challenges that presents to implementing UI).</p>
+    <p>The other major difference is how the tutorials are presented. Traditionally both tutorials were presented as hour long videos, but this year we're trying something a bit different with having the Metroid tutorial be mostly text.</p>    
     </div>
   </label>
 </div>
@@ -51,7 +45,7 @@ As you go through these tutorials you'll come across a number of expandable sect
   <label for="check3">
     <p class="expand-title">Why can't I copy the code snippets?</p>
     <div class="check-content">
-    We've intentionally made all included code in image only form. This is partially because we want to keep the amount of work consistent with the Zelda tutorials, but mostly because there's value in being forced to type all the code.
+    <p>We've intentionally made all included code in image only form. This is partially because we want to keep the amount of work consistent with the Zelda tutorials, but mostly because there's value in being forced to type all the code.</p>
     </div>
   </label>
 </div>
