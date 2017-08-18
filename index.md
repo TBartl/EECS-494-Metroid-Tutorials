@@ -12,22 +12,22 @@ We expect these tutorials to take approximately 1.5 hours to complete, but they 
 
 Whenever you see a gray block, you can click to expand it and get more information.
 
-{% include start-expand.html id="0" title="What do these gray expandable sections look like? How do you use them? (Click to Expand)" %} 
+{% include start-expand.html title="What do these gray expandable sections look like? How do you use them? (Click to Expand)" %} 
   <p>Exactly like this, and exactly like that.</p>
 {% include end-expand.html %}
 
-{% include start-expand.html id="1" title="Is reading these sections optional?" %} 
+{% include start-expand.html title="Is reading these sections optional?" %} 
   <p>While these sections don't contain information necessary to complete the template, the information in these sections will provide information that will be invaluable in completing the project on your own.</p>
   <p>We strongly recommend that you read all of these so that you're prepared going into the rest of the project.</p>
 {% include end-expand.html %}
 
-{% include start-expand.html id="2" title="What differences can I expect between the Metroid and Zelda project?" %} 
+{% include start-expand.html title="What differences can I expect between the Metroid and Zelda project?" %} 
   <p>Both projects are fairly equal in the challenges you'll face. The biggest difference between the two is Metroid's focus on tight platforming (and the challenges that presents to implementing physics) and Zelda's focus on inventory (and the challenges that presents to implementing UI).</p>
   <p>The other major difference is how the tutorials are presented. Traditionally both tutorials were presented as hour long videos, but this year we're trying something a bit different with having the Metroid tutorial be mostly text.</p>
   <p>In terms of effort, both projects are structured to take around the same amount of time.</p>
 {% include end-expand.html %}
 
-{% include start-expand.html id="2" title="Why can't I copy and paste the code snippets?" %} 
+{% include start-expand.html title="Why can't I copy and paste the code snippets?" %} 
     <p>We've intentionally made all included code in image only form. This is partially because we want to keep the amount of work consistent with the Zelda video tutorials, but mostly because there's value in being forced to type all the code.</p>
 {% include end-expand.html %}
 
