@@ -1,6 +1,6 @@
 ## Project and Scene Setup
 
-For any game you'll create in this class, the first thing you're going to need to do is setup the project with version control and setup your first scene. You may find it helpful to come back to this page on future projects as a reference.  
+For any game you'll create in this class, the first thing you're going to need to do is **setup the project** with **version control** and setup your first **scene**. You may find it helpful to **come back to this page** on future projects as a reference.  
 
 ### Creating the Project
 
