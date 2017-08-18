@@ -29,3 +29,7 @@
 input:checked ~ * * {
   display: block;
 }
+
+#header_wrap {
+  cursor: pointer;
+}
