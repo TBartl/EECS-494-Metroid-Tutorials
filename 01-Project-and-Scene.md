@@ -6,27 +6,59 @@ For any game you'll create in this class, the first thing you're going to need t
 
 Open Unity and click the "New" button to create a new project.
 
-![alt text](./01/UnityStartup.PNG "Unity Startup")
+![UnityStartup](./01/UnityStartup.PNG)
 
-On the next screen give your project a name. It should follow the format "eecs-494-p1-\<uniqname\>" where \<username\> is your uniqname.
+On the next screen give your project a name. It should follow the format **"eecs-494-p1-\<uniqname\>"** where \<uniqname\> is your uniqname.
 
-Next select 2D as Metroid is a 2D game. This ensures that whenever a scene is created, it is setup specific to be 2D.
+Next select **2D** as Metroid is a 2D game.
 
-Finally hit "Create project" to, as the name suggests, create the project.
+{% include start-expand.html id="0" title="What's the difference between a 2D and a 3D game?" %} 
+  <p>Regardless of which option you select, your game will still build and play the same.</p>
+  <p>The difference between the two is that some settings will default to different things. With 2D set cameras default to orthograpic instead of perspective, images default to sprites instead of textures, and backgrounds are set to a solid color instead of a skybox to name a few.</p>
+{% include end-expand.html %}
 
-![alt text](./01/UnityNewConfig.PNG "Unity New Config")
+Finally hit **"Create project"**.
 
-After Unity finishes setting up your project, you will be greeted with the Unity Editor.
+![UnityNewConfig](./01/UnityNewConfig.PNG)
+
+After Unity finishes setting up your project, you will be greeted with the **Unity Editor**.
 
 
-![alt text](./01/UnityEditor.PNG "Unity Editor")
+![UnityEditor](./01/UnityEditor.PNG)
 
 ### Importing Unity Packages
 
-Unity packages contain a number of assets that you can use in your game. Unity provides a number of standard asset packages that you can use for free, and you can also find many on the Unity store. You may want to experiment with some of these in your own games.
+At any point when developing your project you can import a Unity Package to your game. For this project, we will be using a Unity package the instructors have developed to jump-start the project. 
 
-For this project, we wil be using a Unity Package the instructors have created that contains everything you'll need to get your project going. However, this is not a complete set of assets you'll need for your project; you'll be responsible for finding any other assets you need.
+{% include start-expand.html id="2" title="What is a Unity package?" %} 
+  <p>Unity packages are a collection of Assets that you can import into your project</p>
+  <p>What separates Unity packages from simply dragging in your assets is that Unity packages support meta data. This means that settings on things like textures will already be setup correctly. It also means that a Unity package can have Unity specific assets like Prefabs, Scenes, and Materials.</p>
+{% include end-expand.html %}
 
-First download the Unity Package from the [canvas website](https://umich.instructure.com/courses/164929/files/folder/p1). You can find it in the "Files" tab inside the "p1" folder with the name "494-p1-templatePackage.unitypackage".
+First download the **Unity Package** from the [canvas website](https://umich.instructure.com/courses/164929/files/folder/p1). You can find it in the "Files" tab inside the "p1" folder with the name "494-p1-templatePackage.unitypackage".
 
-![alt text](./01/CanvasSite.PNG "Canvas Site")
+![CanvasSite](./01/CanvasSite.PNG)
+
+Once downloaded **double click** the .unitypackage and it should open up into your current Unity project.
+
+![ImportPackage](./01/ImportPackage.PNG)
+
+A list of assets will appear. From here you can choose what you want and don't want to import. In this case, we don't want the Zelda assets so feel free to uncheck those. Once that's done hit **Import**.
+
+![PostImport](./01/PostImport.PNG)
+
+Thanks to the Unity package, we now have a number of new assets in our project. It isn't important to know what all of these are right now, but as we go through the tutorial we will use all of these.
+
+Note that this isn't a complete set of assets that you'll need for your game, it's up to you to find the rest!
+
+{% include start-expand.html id="2" title="Where can I find the other assets I need?" %} 
+  <p>Unity provides a number of standard asset Unity packages that you can import by simply going to "Assets" tab and selecting "Import Package".</p>
+  <p>For the sprites you'll need, you can check out spriters-resource.com. However, note that there needs to be special care to import any images into your project; we'll cover this in the next section.</p>
+  <p>For the sound effects you'll need, you can check out spriters-resource.com</p>
+{% include end-expand.html %}
+
+{% include start-expand.html id="2" title="Where else can I find Unity packages?" %} 
+  <p>Unity provides a number of standard asset Unity packages that you can import by simply going to "Assets" tab and selecting "Import Package".</p>
+  <p>In addition, you can find many unity packages, both free and paid, on the Unity Store.</p>
+  <p>For this project you won't be required to use any other unity packages, but in future projects you're free to explore some of these.</p>
+{% include end-expand.html %}
