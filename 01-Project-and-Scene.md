@@ -23,7 +23,6 @@ Finally hit **"Create project"**.
 
 After Unity finishes setting up your project, you will be greeted with the **Unity Editor**.
 
-
 ![UnityEditor](./01/UnityEditor.PNG)
 
 ### Importing Unity Packages

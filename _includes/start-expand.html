@@ -1,9 +1,5 @@
-{%if counter %}
-{% else %}
-    {% assign counter = 0 %}
-{% endif %}
 <div class="expandable">
-  <input id="check-{{counter || 0}}" class="checkbox" type="checkbox">
+  <input id="check-{{counter}}" class="checkbox" type="checkbox">
   <label for="check-{% increment counter %}">
     <p class="expand-title">{{include.title}}</p>
     <div class="check-content">
