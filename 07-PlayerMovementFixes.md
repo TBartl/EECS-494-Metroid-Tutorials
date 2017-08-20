@@ -16,9 +16,13 @@ While we're here, also freeze the **position** the **z-axis** so the character d
 
 You may have noticed that when you press **A** to jump, the character moves left. This is because W**A**SD is default to work with both the Horizontal and Vertical axis of Input.GetAxis() calls.
 
-Go to **Edit->Project Settings->Input** and remove **a** as **Alt Negative Button** for **Horizontal**.
+Go to **Edit->Project Settings->Input** and remove **a** and **d** as **Alt Negative Button**s for **Horizontal**.
 
 ![RemoveAlt](./07/RemoveAlt.PNG)
+
+Do the same for **w** and **s** in **Vertical**
+
+![RemoveAlt2](./07/RemoveAlt2.PNG)
 
 While we're here let's fix another problem. You may have noticed the player **gradually speeds up** instead of starting with **full velocity**. This is because by default Unity tries to mimic joystick controls for **Input.GetAxis**, trying to smooth out changes between the keys. 
 
