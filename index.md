@@ -2,7 +2,7 @@
 
 In these tutorials, we aim to help you get started on your classic Metroid game project. 
 
-As you go through these tutorials, make sure you're following along in your own project so that by the end you'll be setup and ready to tackle the project on your own.
+As you go through these tutorials, make sure you're following along in your own project so that once you finish you'll be setup and ready to tackle the project on your own.
 
 By the end of these tutorials you will have a basic scene setup with a basic implementation of the player. More importantly though, you will understand many of the concepts you'll need to finish the rest of the project on your own.
 
