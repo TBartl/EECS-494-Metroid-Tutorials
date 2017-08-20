@@ -43,7 +43,7 @@ When you're ready to get started, go to the first tutorial: [1: Project Setup.](
 
 [4: Configuring Tiles](./04-ConfiguringTiles)
 
-[5: Player Prefab](./05-PlayerPrefab)
+[5: Player Setup](./05-PlayerSetup)
 
 [6: Player Movement](./06-PlayerMovement)
 
