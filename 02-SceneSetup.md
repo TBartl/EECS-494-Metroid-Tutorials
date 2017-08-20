@@ -29,7 +29,7 @@ Ensure the **Projection** is **Orthographic**
   <p>For orthographic, elements are rendered as is regardless of their depth. This is most useful in 2D games like Metroid.</p>
 {% include end-expand.html %}
 
-Set the **Size** to **7**
+Set the **Size** to **7.5**
 
 {% include start-expand.html title="Why this size?" %} 
 <p>The size corresponds to half the vertical view. Since Metroid shows 14 tiles vertically, we want 14/2=7 as our size.</p>
@@ -43,10 +43,9 @@ Set the **Position** to **(39.5, 22, -10)**
 
 ![Camera](./02/Camera.PNG)
 
-
 ### Aspect Ratio Configuration
 
-Our view isn't quite ready yet. Right now our game is defaulting to a **Free Aspect** ratio, but we want it to display at the NES's **8:7 Aspect Ratio**.
+Our view isn't quite ready yet. Right now our game is defaulting to a **Free Aspect** ratio, but we want it to display at the NES's **256:240 Aspect Ratio**.
 
 Open your **Game Tab**. Click where it says **Free Aspect** and then click the plus near the bottom of the window that popped up. 
 
