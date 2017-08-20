@@ -49,14 +49,14 @@ When you're ready to get started, go to the first tutorial: [1: Project Setup.](
 
 [7: Player Movement Fixes](./07-PlayerMovementFixes)
 
-[8: Player Direction and Animation](./08-PlayerDirection)
+[8: Player Direction](./08-PlayerDirection)
 
 [9: Bullets and Firing](./09-BulletsAndFiring)
 
 [10: Audio](./10-Audio)
 
-[11: Collectables](./11-Collectables)
+[11: Morph Ball](./11-MorphBall)
 
-[12: Morph Ball](./12-MorphBall)
+[12: Collectables](./12-Collectables)
 
 [13: Next Steps](./13-NextSteps)
