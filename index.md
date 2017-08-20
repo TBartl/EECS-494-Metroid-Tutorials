@@ -37,26 +37,26 @@ When you're ready to get started, go to the first tutorial: [1: Project Setup.](
 
 [1: Project Setup](./01-ProjectSetup)
 
-[1: Scene Setup](./02-SceneSetup)
+[2: Scene Setup](./02-SceneSetup)
 
-[2: Placing Tiles](./02-Placing-Tiles)
+[3: Placing Tiles](./03-PlacingTiles)
 
-[3: Placing Tiles](./03-Configuring-Tiles)
+[4: Configuring Tiles](./04-ConfiguringTiles)
 
-[4: Player Prefab](./04-Player-Prefab)
+[5: Player Prefab](./05-PlayerPrefab)
 
-[5: Player Movement](./05-Player-Movement)
+[6: Player Movement](./06-PlayerMovement)
 
-[6: Player Movement Fixes](./06-Player-Movement-Fixes)
+[7: Player Movement Fixes](./07-PlayerMovementFixes)
 
-[7: Player Direction and Animation](./07-Player-Direction-and-Animation)
+[8: Player Direction and Animation](./08-PlayerDirection)
 
-[8: Bullets and Firing](./08-Bullets-and-Firing)
+[9: Bullets and Firing](./09-BulletsAndFiring)
 
-[9: Audio](./09-Audio)
+[10: Audio](./10-Audio)
 
-[10: Collectables](./10-Collectables)
+[11: Collectables](./11-Collectables)
 
-[11: Morph Ball](./11-Morph-Ball)
+[12: Morph Ball](./12-MorphBall)
 
-[12: Next Steps](./12-Next-Steps)
+[13: Next Steps](./13-NextSteps)
