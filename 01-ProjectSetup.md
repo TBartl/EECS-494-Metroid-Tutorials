@@ -89,4 +89,15 @@ Once it's setup GitLab will have further instructions on setting up the project.
 <p>If you've never worked with Git before it shouldn't be a problem. All you'll need for these tutorials is the basics, so any quick online tutorial should get you caught up.</p>
 {% include end-expand.html %}
 
+### Disable Anti-Aliasing
+
+The last thing we need to do for our project is disable anti-aliasing. Go to **Edit->Project Settings->Quality**. Unity defaults to having 6 quality options that users can choose between, so we'll need to update all of them. Set **Anti Aliasing** to **Disabled** for all settings.
+
+![AntiAliasing](./01/AntiAliasing.PNG)
+
+{% include start-expand.html title="Do I really need all of these different Project Settings?" %} 
+<p>For higher performance games, it's important to give your users users some means to adjust their settings. For an old-school NES game this really isn't necessary, but it's a bit of a hassle to setup a single quality.</p>
+<p>If you want to do this though, you're welcome to do so for this project.</p>
+{% include end-expand.html %}
+
 And that's it for this section. When you're ready to move on, go to [02-Scene Setup](./02-SceneSetup).
