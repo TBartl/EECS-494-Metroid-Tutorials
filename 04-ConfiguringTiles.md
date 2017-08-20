@@ -58,6 +58,8 @@ To add collission, we will be giving the **Tile\_WALL** prefab a box collider. I
 <a href="https://issuetracker.unity3d.com/issues/prefabs-update-causes-unity-to-freeze">If you want to get this bug fixed, you can vote for it here!</a>
 {% include end-expand.html %}
 
+### Conclusion
+
 And that's it! We just had to make a change to the one **prefab**, and all of the **instances** in the scene updated. This is the workflow you should use for configuring all of your tiles.
 
 ![FunBall2](./04/FunBall2.GIF)

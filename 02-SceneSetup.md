@@ -58,4 +58,6 @@ And set the **Width & Height** to **8 & 7**
 
 ![NES](./02/NES.PNG)
 
+### Conclusion
+
 And that's it for setting up our scene! Now we can finally get to adding content to the scene. When you're ready, commit your changes and then head over to [03-Placing Tiles](./03-PlacingTiles).

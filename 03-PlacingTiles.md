@@ -100,6 +100,8 @@ Next we have all of our Rooms. Right now these just holds the tiles, but as you 
 
 And within each of these Rooms you'll see all of the **tiles**. Each tile is a separate **Game Object** that currently just has a SpriteRenderer component.
 
+### Conclusion
+
 Everything looks good, but unfortunately these tiles don't actually have any **properties**, no collision or anything! You can observe this by dropping in the EECS-494 funball and using the arrow keys to try to bounce off the walls; the ball goes straight through them!
 
 ![FunBall](./03/FunBall.GIF)

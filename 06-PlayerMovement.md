@@ -80,6 +80,8 @@ Next check for the **A** key being pressed and set the velocity to the **jumpPow
 
 ![Vertical](./06/Vertical.PNG)
 
+### Conclusion
+
 And that's it for movement, run your game and you'll see that... there are a lot of problems...
 
 ![Movement](./06/Movement.GIF)

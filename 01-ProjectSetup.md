@@ -100,4 +100,6 @@ The last thing we need to do for our project is disable anti-aliasing. Go to **E
 <p>If you want to do this though, you're welcome to do so for this project.</p>
 {% include end-expand.html %}
 
+### Conclusion
+
 And that's it for this section. When you're ready to move on, go to [02-Scene Setup](./02-SceneSetup).
