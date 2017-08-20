@@ -6,7 +6,9 @@ As you go through these tutorials, make sure you're following along in your own 
 
 By the end of these tutorials you will have a basic scene setup with a basic implementation of the player. More importantly though, you will understand many of the concepts you'll need to finish the rest of the project on your own.
 
+{% comment %}
 [You can view the results of the tutorial in this Unity Web Player Demo](./Demo)
+{% endcomment %}
 
 We expect these tutorials to take approximately 1.5 hours to complete, but they are sectioned so that you can stop and review at any time.
 
@@ -18,6 +20,7 @@ Whenever you see a gray block, you can click to expand it and get more informati
 
 {% include start-expand.html title="Is reading these sections optional?" %} 
   <p>Technically, this whole tutorial is optional if your group is confident that you can do the project on your own.</p>
+  <p>Technically, doing this whole project is optional, but it will be reflected in your GPA.</p>
   <p>These extra sections, along with the rest of the tutorial, are here to help save you a lot of time. We strongly encourage you take take full advantage of them.</p>
 {% include end-expand.html %}
 
