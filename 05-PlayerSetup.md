@@ -80,4 +80,4 @@ Finally, drag-and-drop the root **Player** Game Object from the scene into your 
 <p>Even if there will only ever be one Player Game Object instantiated, you want to make sure that the Player in this scene stays up to date with the Player you will add to other scenes (like the Custom Level).</p>
 {% include end-expand.html %}
 
-That's it for this tutorial. Once you're ready commit your changes you can move on to [06-Player Movement](./06-PlayerMovement).
+That's it for this tutorial. Once you're ready commit your changes and move on to [06-Player Movement](./06-PlayerMovement).
