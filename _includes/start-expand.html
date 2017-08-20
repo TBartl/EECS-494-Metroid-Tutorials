@@ -1,5 +1,10 @@
+{% unless counter %}
+  {% assign counter = 0 %}
+{% endunless %}
+
+{% assign counter = counter | plus: 1 %}
 <div class="expandable">
   <input id="check-{{counter}}" class="checkbox" type="checkbox">
-  <label for="check-{% increment counter %}">
+  <label for="check-{{counter}}">
     <p class="expand-title">{{include.title}}</p>
     <div class="check-content">
