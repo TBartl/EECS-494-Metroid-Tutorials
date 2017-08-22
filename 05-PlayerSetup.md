@@ -74,7 +74,7 @@ Add a **RigidBody** to the **Player** Game Object.
 <p>However, these states share the same movement. It would be pretty odd for the velocity to change every time you went between states.</p>
 {% include end-expand.html %}
 
-Finally, drag-and-drop the root **Player** Game Object from the scene into your **Assets** to make it a prefab. Move it into the Prefabs folder for organization.
+Finally, drag-and-drop the root **Player** Game Object from the **Hierarchy** into your **Assets** to make it a **Prefab**. Move it into the **Prefabs** folder for organization.
 
 {% include start-expand.html title="Why do I need to make the Player a prefab if there will only ever be one of them?" %}
 <p>Even if there will only ever be one Player Game Object instantiated, you want to make sure that the Player in this scene stays up to date with the Player you will add to other scenes (like the Custom Level).</p>
