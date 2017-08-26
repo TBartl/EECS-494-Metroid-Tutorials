@@ -6,6 +6,8 @@ As you go through these tutorials, make sure you're following along in your own 
 
 By the end of these tutorials you will have a basic scene setup with a basic implementation of the player. More importantly though, you will understand many of the concepts you'll need to finish the rest of the project on your own.
 
+![Final](./12/Final.GIF)
+
 {% comment %}
 [You can view the results of the tutorial in this Unity Web Player Demo](./Demo)
 {% endcomment %}
