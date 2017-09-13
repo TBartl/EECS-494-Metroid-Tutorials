@@ -51,7 +51,7 @@ Also set this as the **Material** for the **Box Collider** of the **Tile_WALL** 
 {% include start-expand.html title="So why are we using a Capsule Collider for the player anyway? (Important!)" %}
 <p>It would seem like a box collider would make more sense here. However, the collision in Unity is unfortunately not ideal for Tile based games.</p>
 <p>Essentially how the collision works is that each physics update, the rigidbody object moves its velocity. Then it is pushed out of anything it moved into. Unfortunately, it may get pushed out of the sides of a tile before it gets pushed out of the top/bottom of another tile. This could cause the player to stop and get stuck, but having a round bottom "fixes" this.</p>
-<p>Unfortunately this isn't the only problem Unity's physics causes. You may notice the player bounce slightly, and even still get stuch on walls at intersections between tiles. This is one of the problems you'll need to figure out while polishing this project</p>
+<p>Unfortunately this isn't the only problem Unity's physics causes. You may notice the player bounce slightly, and even still get stuck on walls at intersections between tiles. This is one of the problems you'll need to figure out while polishing this project</p>
 <p>You're two most likely options are to either:</p>
 <p> A: Check if the player is going to run into a wall and stop the velocity in that direction if they are (you can do this through Box Casts).</p>
 <p> B: Implement your own predictive movement, moving your character up to the velocity in both axises but stopping if it's going to hit an object.</p>
