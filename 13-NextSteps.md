@@ -9,7 +9,7 @@ If you haven't done so already, you should play through the original **Metroid**
 <p>That or use an emulator that has save states. That's what I did</p>
 {% include end-expand.html %}
 
-[There is a list of what's expected to be done here]("https://docs.google.com/spreadsheets/d/1xh1qqKgpKQuK0o_wfihxVVl7m4TRGO55rwoX7OcEn5s/"), but note that this is intentionally vague to require you to figure things out on your own.
+[There is a list of what's expected to be done here](https://docs.google.com/spreadsheets/d/1xh1qqKgpKQuK0o_wfihxVVl7m4TRGO55rwoX7OcEn5s), but note that this is intentionally vague to require you to figure things out on your own.
 
 There's a big difference between having something done and having something done well. Even if something seems minor to you, like setting the speed of an enemy appropriately, know that it can make or break how your game plays.
 
