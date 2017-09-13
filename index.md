@@ -28,12 +28,11 @@ Whenever you see a gray block, you can click to expand it and get more informati
 
 {% include start-expand.html title="What differences can I expect between the Metroid and Zelda project?" %} 
   <p>Both projects are fairly equal in the challenges you'll face. The biggest difference between the two is Metroid's focus on tight platforming (and the challenges that presents to implementing physics) and Zelda's focus on inventory (and the challenges that presents to implementing UI).</p>
-  <p>The other major difference is how the tutorials are presented. Traditionally both tutorials were presented as long videos, but this year we're trying something a bit different with having the Metroid tutorial be mostly text.</p>
   <p>In terms of effort, both projects are structured to take around the same amount of time.</p>
 {% include end-expand.html %}
 
 {% include start-expand.html title="Why can't I copy and paste the code snippets?" %} 
-    <p>We've intentionally made all included code in image form only. This is partially because we want to keep the amount of work consistent with the Zelda video tutorials, but mostly because there's value in being forced to type all the code.</p>
+    <p>We've intentionally made all included code in image form only. This is to keep you from copy-pasting the solutions; there's value in writing the code yourself.</p>
 {% include end-expand.html %}
 
 When you're ready to get started, go to the first tutorial: [1: Project Setup.](./01-ProjectSetup)
