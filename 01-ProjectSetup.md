@@ -75,7 +75,7 @@ We'll also need a **.gitignore**. You can find one online <a href="01/gitignore.
 Once you have one, drop it into the **root** of your project (next to your Asset folder, ProjectSettings folder, etc...).
 
 {% include start-expand.html title="Why do I need a .gitignore file?" %} 
-<p>Unity maintains a huge amount of files so that your poject doesn't need to be rebuilt in full every time you load or run it. The only things you actually need for your Project are everything in your Assets and Project Settings folder, the rest doesn't need version control.</p>
+<p>Unity maintains a huge amount of files so that your project doesn't need to be rebuilt in full every time you load or run it. The only things you actually need for a Unity Project the Assets and Project Settings folder, the rest we don't need to sync.</p>
 <p>Plus it would be really hard to work with version control if you were committing a lot of extra files you hadn't changed.</p>
 {% include end-expand.html %}
 
@@ -94,6 +94,10 @@ Once it's setup GitLab will have further instructions on setting up the project.
 The last thing we need to do for our project is disable anti-aliasing. Go to **Edit->Project Settings->Quality**. Unity defaults to having 6 quality options that users can choose between, so we'll need to update all of them. Set **Anti Aliasing** to **Disabled** for all settings.
 
 ![AntiAliasing](./01/AntiAliasing.PNG)
+
+{% include start-expand.html title="What is anti-aliasing?" %} 
+<p>At a high level, anti-aliasing is a rendering strategy to blur edges so objects aren't so pixelated. For a pixel game though this just makes everything look a bit fuzzy, so we don't want it here.</p>
+{% include end-expand.html %}
 
 {% include start-expand.html title="Do I really need all of these different Project Settings?" %} 
 <p>For higher performance games, it's important to give your users users some means to adjust their settings. For an old-school NES game this really isn't necessary, but it's a bit of a hassle to setup a single quality.</p>
