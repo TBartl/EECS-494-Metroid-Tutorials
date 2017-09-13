@@ -32,7 +32,7 @@ Ensure the **Projection** is **Orthographic**
 Set the **Size** to **7.5**
 
 {% include start-expand.html title="Why this size?" %} 
-<p>The size corresponds to half the vertical view. Since Metroid shows 14 tiles vertically, we want 14/2=7 as our size.</p>
+<p>The size corresponds to half the vertical view. Since Metroid shows 15 tiles vertically, we want 15/2=7.5 as our size.</p>
 {% include end-expand.html %}
 
 Set the **Position** to **(39.5, 22, -10)**
@@ -53,7 +53,7 @@ Set the Label as **NES**.
 
 Set the type as **Aspect Ratio**
 
-And set the **Width & Height** to **8 & 7**
+And set the **Width & Height** to **16 & 15**
 
 ![NES](./02/NES.PNG)
 
