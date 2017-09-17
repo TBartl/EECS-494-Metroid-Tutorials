@@ -76,7 +76,7 @@ But we still need to add jumping. Just as you did with moveSpeed, make a public 
 
 ![JumpPower](./06/JumpPower.PNG)
 
-Next check for the **A** key being pressed and set the velocity to the **jumpPower** when this happens.
+Next check for the **Z** key being pressed and set the velocity to the **jumpPower** when this happens.
 
 ![Vertical](./06/Vertical.PNG)
 

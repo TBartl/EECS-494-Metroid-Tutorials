@@ -123,4 +123,9 @@ Finally, note that **this script should only ever need to be run once**.
 <p>There are very few cases in which case you'll want to rerun the script. However, in the instance that you didn't save your scene, for example, you'll need to delete all of the generated assets from your assets. This includes the Sprite Sheet, the Room prefab, and any Tile prefabs you have.</p>
 {% include end-expand.html %}
 
+{% include start-expand.html title="Couldn't I have just placed all of these by hand?" %}
+<p>If you wanted to, you could but placing ~5000 tiles doesn't exactly sound like a fun time to me.</p>
+<a href="https://github.com/TBartl/494-TemplatePrototype/wiki/zelda_t1">To find out more information about how this project used to be done, check out some of the motivations here.</a>
+{% include end-expand.html %}
+
 In the next section we'll be adding properties to many of the tiles. When you've committed your changes and are ready, click here to go to the next section: [04-Configuring Tiles!](./04-ConfiguringTiles)
