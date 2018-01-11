@@ -34,7 +34,7 @@ At any point when developing your project you can import a Unity Package to your
   <p>What separates Unity packages from simply dragging in your assets is that Unity packages support meta data. This means that settings on things like textures will already be setup correctly. It also means that a Unity package can have Unity specific assets like Prefabs, Scenes, and Materials.</p>
 {% include end-expand.html %}
 
-First download the **Unity Package** from the [canvas website](https://umich.instructure.com/courses/164929/files/folder/p1). You can find it in the "Files" tab inside the "p1" folder with the name "494-p1-templatePackage.unitypackage".
+First download the **Unity Package** from the [canvas website](https://umich.instructure.com/courses/192534/files/folder/p1). You can find it in the "Files" tab inside the "p1" folder with the name "494-p1-templatePackage.unitypackage".
 
 ![CanvasSite](./01/CanvasSite.PNG)
 

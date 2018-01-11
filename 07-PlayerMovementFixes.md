@@ -80,7 +80,7 @@ Now that we're able to actually play our game, you may have noticed that we went
 
 ### Conclusion
 
-![Fixed](./07/Fixed.GIF)
+![Fixed](./07/Fixed.gif)
 
 This was only the **basics** of movement and you'll find in your analysis that there's a bit more to Metroid than just this (running jumps, jumps dependent on how long you hold the button, etc...). However that's all the time we're going to spend on it here.
 
